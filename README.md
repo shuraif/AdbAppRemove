@@ -20,6 +20,8 @@ This is a simple shell script to uninstall an bloatwares using ADB.
 
 The selected package will be uninstalled.
 
+![Image Alt Text](https://raw.githubusercontent.com/shuraif/images/2ee27e4ba9684a1b1416d9d7e2c1e1871b92656b/BloatwareRemover/IMG_20230913_130934.jpg)
+
 ## Features
 
 - Searches for installed packages matching entered app name
