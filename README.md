@@ -9,7 +9,7 @@ This is a simple shell script to uninstall an bloatwares using ADB.
 2. Run the script:
 
 ```bash
-./uninstall_app.sh
+./adb_remove_app.sh
 ```
 
 3. Enter the name of the app when prompted. 
